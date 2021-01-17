@@ -1,0 +1,5 @@
+﻿  WindowsProject2.cpp
+C:\Users\Макс\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(44,20): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\Макс\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Макс\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(194,12): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+  WindowsProject2.vcxproj -> C:\Users\Макс\source\repos\WindowsProject2\Debug\WindowsProject2.exe
